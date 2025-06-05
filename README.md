@@ -122,5 +122,5 @@ The `mpe-h5-explorer-tool` provides functions to inspect, combine, and extract d
         print(f"Plot saved to: {output_plot_path}")
     ```
 
-For a more detailed example, please refer to `example_main.py`.
+For a more detailed example, please refer to [`example_main.py`](./example_main.py).
 
